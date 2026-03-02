@@ -1,2 +1,27 @@
 # joaodaniel1203-collab.github.io
 00
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 8- citacões e code</title>
+    <link rel="shortcut icon" href="favicon css.ico" type="image/x-icon">
+</head>
+<body> <h1>Testando code </h1>
+    <h2>Código-Fonte</h2>
+<p>Esse comando <code>document.getElementById('teste')</code> é escritonem linguagem JavaScript.</p>
+<p><code>
+    <pre>
+num = int(input(Digite um número))
+if num % 2 == 0
+print(f'0 Númer{num} é PAR) pyton
+    </pre>
+</code>
+</p>
+    <p>citações </p>
+    <q>tag q</q>
+    <p>Segundo o autor:
+        <blockquote>a diferenca kdsfsfnksd... usando blockquote</blockquote> </p> abreviações usando a tag abbr <abbr title="HyperText Markup Language">HTML</abbr> </p>
+</body>
+</html>
